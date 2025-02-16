@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elena @Snowbirdie Slavina
-- 👀 I’m interested in game development.
-- 🌱 I’m currently learning Unity & C#.
+- 👀 I am interested in computer games, cooking and travelling.
+- 🌱 I've been making games on Unity since 2019.
 
 
 <!---
